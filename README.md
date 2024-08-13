@@ -26,5 +26,12 @@
 2. **Install dependencies:**
    ```Using npm:
    npm install
-   ```Using yarn:
+   or
    yarn install
+3. **Running the Application:**
+   ``` Start:
+   npm run dev
+   or
+   yarn dev
+The application will be available at (http://localhost:3000).
+
