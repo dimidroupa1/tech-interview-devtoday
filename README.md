@@ -2,12 +2,6 @@
 
 **Project Name** is a web application built with Next.js and TypeScript. It provides [brief description of what your application does], leveraging modern web technologies to deliver a fast and reliable user experience.
 
-### Features
-
-- **Feature 1**: [Brief description of feature 1].
-- **Feature 2**: [Brief description of feature 2].
-- **Feature 3**: [Brief description of feature 3].
-
 ### Architecture
 
 - **Frontend**: Built with Next.js and React, using TypeScript for type safety and enhanced developer experience.
@@ -32,3 +26,5 @@
 2. **Install dependencies:**
    ```Using npm:
    npm install
+   ```Using yarn:
+   yarn install
