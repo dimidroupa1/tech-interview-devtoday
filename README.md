@@ -33,5 +33,14 @@
    npm run dev
    or
    yarn dev
-The application will be available at (http://localhost:3000).
+The application will be available at http://localhost:3000.
 
+### Building the Application
+
+To create an optimized production build:
+   ``` build:
+   npm run build
+   or
+   yarn build
+
+### Running Tests
