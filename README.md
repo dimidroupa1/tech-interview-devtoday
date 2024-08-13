@@ -42,5 +42,3 @@ To create an optimized production build:
    npm run build
    or
    yarn build
-
-### Running Tests
